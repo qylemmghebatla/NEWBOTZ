@@ -89,8 +89,8 @@ global.owner = [
   ['-', 'ISI KALAU ADA', true]
 //Ganti jd nomormu sama Namamu
 ] 
-global.mods = [] 
-global.prems = [] 
+global.mods = '60177302593' 
+global.prems = '6017302593'
 
 /*============== WATERMARK ==============*/
 global.gcname = 'LINKBOTZ'//nama group kalian
